@@ -1,0 +1,24 @@
+{
+  "name": "httpsqs",
+  "version": "1.0.0",
+  "description": "httpsqs client for node",
+  "main": "httpsqs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/JackyChan/httpsqs"
+  },
+  "keywords": [
+    "http",
+    "queue",
+    "httpsqs"
+  ],
+  "author": "Jacky <jacky.hf@gmail.com>",
+  "license": "New BSD",
+  "bugs": {
+    "url": "https://github.com/JackyChan/httpsqs/issues"
+  },
+  "homepage": "https://github.com/JackyChan/httpsqs"
+}
